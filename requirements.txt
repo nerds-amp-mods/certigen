@@ -1,0 +1,5 @@
+pandas
+flask
+requests
+pytest
+pytest-cov
